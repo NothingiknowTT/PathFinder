@@ -17,6 +17,17 @@ Dynamic Demonstrations
 <em>Real-time path loss prediction with a walking transmitter across different urban layouts.</em>
 </p>
 
+## Study Note
+
+I forked this repository to study AI-based path loss prediction for wireless communication scenarios.
+
+My focus:
+- Path loss prediction
+- Wireless propagation modeling
+- Deep learning for communication systems
+- PyTorch-based model implementation
+- Single-to-multi-transmitter scenarios
+
 Highlights
 ----------
 - Multi-GPU training and inference via PyTorch DDP.
